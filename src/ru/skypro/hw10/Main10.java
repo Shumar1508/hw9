@@ -2,7 +2,6 @@ package ru.skypro.hw10;
 
 public class Main10 {
 
-
     public static void main(String[] args) {
         System.out.println("AUTOR");
         Author stephenKing = new Author("Stephen", "King");

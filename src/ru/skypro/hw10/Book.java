@@ -54,5 +54,4 @@ public class Book {
         return Objects.hash(title, author, yearOfPublication);
     }
 
-
 }
